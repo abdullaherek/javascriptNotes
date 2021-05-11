@@ -1,0 +1,31 @@
+[
+
+    {
+        "name":"Abdullah Erek",
+        "department": "Bilişim",
+        "salary":4000
+
+
+    },
+
+    {
+        "name":"Fatih Erek",
+        "department": "İnşaat",
+        "salary":5000
+
+
+    },
+
+    {
+        "name":"Hasan Erek",
+        "department": "Turizm",
+        "salary":3500
+
+
+    }
+
+
+
+
+
+]
